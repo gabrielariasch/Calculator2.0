@@ -1,5 +1,17 @@
 # Calculator2.0
 
+This project is a simple calculator that can perform basic mathematical operations such as addition, subtraction, multiplication, and division. The calculator is implemented in Python and uses a dictionary to map the four basic mathematical operations to the corresponding functions. The calculator prompts the user for two numbers and then performs the operation that the user selects. The result of the operation is then printed to the console. The user can continue calculating with the result or start a new calculation.
+
+Here are some of the key features of the project:
+
+It is a simple and easy-to-use calculator.
+It is implemented in Python, which is a popular and powerful programming language.
+It uses a dictionary to map the four basic mathematical operations to the corresponding functions.
+It allows the user to continue calculating with the result or start a new calculation.
+
+Below you can find the explanation of the code.
+
+
 print("Welcome to the Calculator")
 #This line of code prints the message "Welcome to the Calculator" to the user.
 
