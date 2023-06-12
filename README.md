@@ -9,7 +9,7 @@ It is implemented in Python, which is a popular and powerful programming languag
 It uses a dictionary to map the four basic mathematical operations to the corresponding functions.
 It allows the user to continue calculating with the result or start a new calculation.
 
-Below you can find the explanation of the code.
+##Below you can find the explanation of the code.
 
 
 print("Welcome to the Calculator")
